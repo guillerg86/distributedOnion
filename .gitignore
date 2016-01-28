@@ -1,0 +1,10 @@
+*.class
+*.classpath
+
+client/.settings/
+client/.project
+client/bin/
+
+server/.settings/
+server/.project
+server/bin
